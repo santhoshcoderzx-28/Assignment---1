@@ -22,3 +22,4 @@ while current_savings < portion_down_payment:
         monthly_salary = annual_salary / 12
 
 print("Number of months:", months)
+
